@@ -1,0 +1,96 @@
+div.wrap_cookies {
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10000;
+}
+
+div.wrap_cookies div.message 
+{
+	width: 75%;
+	padding: 0 20px 10px 10px;
+	margin: auto;
+}
+
+div.wrap_cookies p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.under {
+    text-decoration: underline!important;
+}
+div.wrap_cookies a {
+    color: #fff;
+    text-decoration: none;
+}
+div.wrap_cookies a:hover {
+    text-decoration: underline;
+}
+.font-white {
+    color: #FFF;
+}
+.siteTitle {
+    display: block;
+    padding-top: 11px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.gris {
+    background-color: #444;
+}
+.azul {
+    background-color: #2980b9;
+}
+.azul_rio {
+    background-color: #3498db;
+}
+.azul_noche {
+    background-color: #2c3e50;
+}
+.verde {
+    background-color: #27ae60;
+}
+.verde_oscuro {
+    background-color: #16a085;
+}
+.verde_turquesa {
+    background-color: #1abc9c;
+}
+.verde_esmeralda {
+    background-color: #2ecc71;
+}
+.violeta {
+    background-color: #9b59b6;
+}
+.violeta_oscuro {
+    background-color: #8e44ad;
+}
+.asfalto {
+    background-color: #34495e;
+}
+.amarillo_claro {
+    background-color: #f1c40f;
+}
+.naranja_claro {
+    background-color: #f39c12;
+}
+.naranja_zanahoria {
+    background-color: #e67e22;
+}
+.naranja_oscuro {
+    background-color: #d35400;
+}
+.rojo_claro {
+    background-color: #e74c3c;
+}
+.rojo_oscuro {
+    background-color: #c0392b;
+}
+.gris2 {
+    background-color: #7f8c8d;
+}
+.cerrar_msj {
+	font-weight:bold;
+}
