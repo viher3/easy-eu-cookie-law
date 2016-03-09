@@ -37,7 +37,7 @@ No, only alerts the user the use of cookies on the website.
 == Changelog ==
 
 = 1.3 =
-* Configuration values saved are not reset when updating the plugin
+* Existing configuration values are not reseted when updating the plugin
 * Config values are now saved on 'wp_options' database table.
 * Config options form works now with Ajax
 * Refactored code
