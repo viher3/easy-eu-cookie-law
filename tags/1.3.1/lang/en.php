@@ -1,6 +1,6 @@
 <?php
 
-    $lang['cookie_text'] = "This site uses cookies to enhance your experience. By continuing to the site you accept their use. More info at our ";
+    $lang['cookie_text'] = "This site uses cookies to enhance your experience. By continuing to the site you accept their use. More info in our ";
     $lang['polit_cook'] = "cookies policy";
     $lang['accept'] = "Accept";
 
