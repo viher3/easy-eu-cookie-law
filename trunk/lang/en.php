@@ -13,6 +13,7 @@
     $lang['english'] = "English";
     $lang['spanish'] = "Spanish";
     $lang['italian'] = "Italian";
+    $lang['french'] = "French";
     $lang['alert_color'] = "Alert color:";    
     $lang['top'] = "Top";    
     $lang['bottom'] = "Bottom";    

@@ -14,6 +14,7 @@
     $lang['english'] = "Inglés";
     $lang['spanish'] = "Español";
     $lang['italian'] = "Italiano";
+    $lang['french'] = "Francés";
     $lang['alert_color'] = "Color alerta:";
     $lang['top'] = "Arriba";    
     $lang['bottom'] = "Abajo";    

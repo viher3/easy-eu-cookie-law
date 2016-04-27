@@ -22,6 +22,7 @@
                         <option value="en" <?php if($eecl_language=="en"){ ?>selected="selected"<?php } ?>><?php echo $lang['english']; ?></option>
                         <option value="es" <?php if($eecl_language=="es"){ ?>selected="selected"<?php } ?>><?php echo $lang['spanish']; ?></option>
                         <option value="it" <?php if($eecl_language=="it"){ ?>selected="selected"<?php } ?>><?php echo $lang['italian']; ?></option>
+                        <option value="fr" <?php if($eecl_language=="fr"){ ?>selected="selected"<?php } ?>><?php echo $lang['french']; ?></option>
                     </select>
                 </td>
             </tr>
