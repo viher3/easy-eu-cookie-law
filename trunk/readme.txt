@@ -14,7 +14,7 @@ The easiest way to comply with the new European cookie law.
 
 Cookie law is a Wordpress Plugin that helps you to comply with the new European cookie law by the easiest way.
 
-This plugin has different alert colors and it is Multilanguage.
+This plugin has different design customizations and it is Multilanguage.
 
 Github project: https://github.com/viher3/easy-eu-cookie-law
 
